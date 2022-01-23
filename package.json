@@ -21,5 +21,8 @@
   "homepage": "https://github.com/stv8/seanvillars#readme",
   "devDependencies": {
     "@11ty/eleventy": "^1.0.0"
+  },
+  "dependencies": {
+    "axos": "^0.0.1"
   }
 }
