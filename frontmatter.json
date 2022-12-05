@@ -59,5 +59,6 @@
     "go",
     "hugo"
   ],
-  "frontMatter.taxonomy.categories": []
+  "frontMatter.taxonomy.categories": [],
+  "frontMatter.content.publicFolder": "static"
 }
