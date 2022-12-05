@@ -1,4 +1,4 @@
-title = "SV"
+title = "Sean Villars"
 
 languageCode = "en"
 languageName = "English"
@@ -14,10 +14,10 @@ description = "Some okay content"
 dateFormat = "2 January 2006"
 
 [author]
-  name = "Sean Villars"
-  image = "img/author.jpg"
+#   name = "Sean Villars"
+#   image = "img/author.jpg"
   headline = "An okay developer"
-  bio = "A little bit about you"
+#   bio = "A little bit about you"
   # links = [
   #   { email = "mailto:hello@your_domain.com" },
   #   { link = "https://link-to-some-website.com/" },
