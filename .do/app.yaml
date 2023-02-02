@@ -1,0 +1,3 @@
+name: seanvillarsite
+static_sites:
+  -   build_command: hugo -d public --minify
