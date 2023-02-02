@@ -12,11 +12,12 @@ autoSwitchAppearance = true
 enableSearch = true
 enableCodeCopy = true
 
-# mainSections = ["section1", "section2"]
+mainSections = ["posts", "tils"]
 # robots = ""
 
 [header]
   layout = "basic" # valid options: basic, hamburger, custom
+  # showTitle = false
 
 [footer]
   showCopyright = true
@@ -31,8 +32,8 @@ enableCodeCopy = true
 [article]
   showDate = true
   showDateUpdated = false
-  showAuthor = true
-  showBreadcrumbs = false
+  showAuthor = false
+  showBreadcrumbs = true
   showDraftLabel = true
   showEdit = false
   # editURL = "https://github.com/username/repo/"
@@ -48,7 +49,7 @@ enableCodeCopy = true
   # sharingLinks = ["facebook", "twitter", "pinterest", "reddit", "linkedin", "email"]
 
 [list]
-  showBreadcrumbs = false
+  showBreadcrumbs = true
   showSummary = false
   showTableOfContents = false
   groupByYear = true
