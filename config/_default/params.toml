@@ -22,7 +22,7 @@ mainSections = ["posts", "tils"]
   # showTitle = false
 
 [footer]
-  showCopyright = true
+  showCopyright = false
   showThemeAttribution = true
   showAppearanceSwitcher = false
   showScrollToTop = true
