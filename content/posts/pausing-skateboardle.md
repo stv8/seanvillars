@@ -30,7 +30,7 @@ Throughout the game I made sure to put a lot of thought into which clips were se
 
 #### Issues with Accepting more contributions
 
-The downside for allowing others to help more is simply that I still have to manage the quality control and upload the games, which takes a non-zero amount of time. I know it might sound lame, but it's still an extra thing I have to keep tabs on and it doensn't really alleviate my time enough.
+The downside to allowing others to help more is simply that I still have to manage the quality control and upload the games, which takes a non-zero amount of time. I know it might sound lame, but it's still an extra thing I have to keep tabs on and it doensn't really alleviate my time enough.
 
 I've actually had help over the course of `Skateboardle` by `SkateVideoSite`'s own resident skate nerd `Frankiesomethin`. He has helped with roughly ~40 of the games and I can't thank him enough.
 
@@ -42,9 +42,9 @@ This has been one of the projects I have been most proud. It went from idea to e
 
 ### Closing Thoughts
 
-I have been anxious to write this up as I know I have built quite a dedicated audience around the game and am sorry to let you down. I am so very stoked to have seen the growth and to see people playing it every day. My goal was to make something people enjoyed which could spark a little bit of joy in their day, and I feel confident in sayint that was achieved.
+I have been anxious to write this up as I know I have built quite a dedicated audience around the game and am sorry to let you down. I am so very stoked to have seen the growth and to see people playing it every day. My goal was to make something people enjoyed which could spark a little bit of joy in their day, and I feel confiden saying that was achieved.
 
-I thank everyone for playing, but the time has come to get some time back. Also this will allow me some time back to continue improving [SkateVideoSite](https://skatevideosite.com).
+I want to thank everyone for playing and allowing me to curate `Skateboardle`, but the time has come for me to get some time back. Also this will allow me to continue improving [SkateVideoSite](https://skatevideosite.com) more often.
 
 I want to give a shout out to:
 
