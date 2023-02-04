@@ -20,7 +20,7 @@ The main reason I have to pause is rather boring, but it is simply due to the la
 
 Adding a single game typically takes me anywhere from 30 to 60 minutes, which is increasingly difficult to come by as a new dad and working full time. I'm trying to simplify my day a bit and `Skateboardle` is just one extra thing I have on my task plate every day.
 
-I have tried to figure out alternatives, such as automating the games, or making it easier for others to contribute games. However each has a downside.
+I have tried to figure out alternatives, such as automating the games, or making it easier for others to contribute games. However each has a downside and ulitmately I would rather pause the game on a high note than have the experience degraded.
 
 #### Automation issues
 
