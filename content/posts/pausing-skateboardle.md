@@ -50,10 +50,10 @@ I want to give a shout out to:
 
 - the [41 page thread on Slap](https://www.slapmagazine.com/index.php?topic=123242.1200)
 - the [1300+ comment thread on UkSkateForum](https://ukskateforum.co.uk/t/skateboardle-video-quiz-contains-spoilers/3082/1357)
-- `Frankiesomethin` - our resident skate nerd
+- `Frankiesomethin` our resident skate nerd
 - `Markus` at `SkateVideoSite`
-- `Walker Ryan` - for collaborating on his book release
-- `Larry Lanza` - and the folks at `Jenkem`, thanks [for the interview](https://www.jenkemmag.com/home/2022/09/22/a-quick-chat-with-the-creator-of-skateboardle-a-skate-trivia-game/)
+- `Walker Ryan` for collaborating on his book release
+- `Larry Lanza` and the folks at `Jenkem`, thanks [for the interview](https://www.jenkemmag.com/home/2022/09/22/a-quick-chat-with-the-creator-of-skateboardle-a-skate-trivia-game/)
 - `Shawn`, `Tclow`, and `Harrynuggets` for continued support
 - everyone who sent me an email, especially those who submitted clips
 
