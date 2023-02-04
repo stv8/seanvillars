@@ -8,7 +8,7 @@ weight = 1
 rtl = false
 
 # logo = "img/logo.jpg"
-description = "Some okay content"
+description = "Thoughts from an okay developer."
 # copyright = "Copy, _right?_ :thinking_face:"
 
 dateFormat = "2 January 2006"
