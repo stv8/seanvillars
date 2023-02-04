@@ -16,11 +16,11 @@ I am bummed to announce that I will be pausing [Skateboardle](https://skateboard
 
 However I do want to make clear that **the site will always remain up**. You will always be able to play the older games and share the game with a friend who has never played.
 
-The main reason I have to pause is rather boring, but it is simply due to the lack of time I have availalble to continue adding a game every day.
+The main reason I have to pause is rather boring, but it is simply due to the lack of time I have available to continue adding a game every day.
 
-Adding a single game typically takes me anywhere from 30 to 60 minutes, which is increasingly difficult to come by as a new dad and working full time. I'm trying to simplify my day a bit and `Skateboardle` is just one extra thing I have on my task plate every day.
+Adding a single game typically takes me anywhere from 30 to 60 minutes, which is increasingly difficult to come by as a new dad and working full time. I'm trying to simplify my day a bit and `Skateboardle` is just one extra task I have on my plate every day.
 
-I have tried to figure out alternatives, such as automating the games, or making it easier for others to contribute games. However each has a downside and ulitmately I would rather pause the game on a high note than have the experience degraded.
+I have tried to figure out alternatives, such as automating the games, or making it easier for others to contribute games. However each has a downside and ultimately I would rather pause the game on a high note than have the experience degraded.
 
 #### Automation issues
 
@@ -30,7 +30,7 @@ Throughout the game I made sure to put a lot of thought into which clips were se
 
 #### Issues with Accepting more contributions
 
-The downside to allowing others to help more is simply that I still have to manage the quality control and upload the games, which takes a non-zero amount of time. I know it might sound lame, but it's still an extra thing I have to keep tabs on and it doensn't really alleviate my time enough.
+The downside to allowing others to help more is simply that I still have to manage the quality control and upload the games, which takes a non-zero amount of time. I know it might sound lame, but it's still an extra thing I have to keep tabs on and it doesn't really alleviate my time enough.
 
 I've actually had help over the course of `Skateboardle` by `SkateVideoSite`'s own resident skate nerd `Frankiesomethin`. He has helped with roughly ~40 of the games and I can't thank him enough.
 
@@ -42,7 +42,7 @@ This has been one of the projects I have been most proud. It went from idea to e
 
 ### Closing Thoughts
 
-I have been anxious to write this up as I know I have built quite a dedicated audience around the game and am sorry to let you down. I am so very stoked to have seen the growth and to see people playing it every day. My goal was to make something people enjoyed which could spark a little bit of joy in their day, and I feel confiden saying that was achieved.
+I have been anxious to write this up as I know I have built quite a dedicated audience around the game and am sorry to let you down. I am so very stoked to have seen the growth and to see people playing it every day. My goal was to make something people enjoyed which could spark a little bit of joy in their day, and I feel confident saying that was achieved.
 
 I want to thank everyone for playing and allowing me to curate `Skateboardle`, but the time has come for me to get some time back. Also this will allow me to continue improving [SkateVideoSite](https://skatevideosite.com) more often.
 
