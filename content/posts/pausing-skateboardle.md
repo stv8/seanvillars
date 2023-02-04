@@ -14,7 +14,9 @@ Like **, all good things come to an end or at least a pause.
 
 I am bummed to announce that I will be pausing [Skateboardle](https://skateboardle.com) games **starting with game 180** (frontside or backside pun intended).
 
-The main reason is boring, but it is simply due to the lack of time I have availalble to continue adding a game every day.
+However I do want to make clear that **the site will always remain up**. You will always be able to play the older games and share the game with a friend who has never played.
+
+The main reason I have to pause is rather boring, but it is simply due to the lack of time I have availalble to continue adding a game every day.
 
 Adding a single game typically takes me anywhere from 30 to 60 minutes, which is increasingly difficult to come by as a new dad and working full time. I'm trying to simplify my day a bit and `Skateboardle` is just one extra thing I have on my task plate every day.
 
