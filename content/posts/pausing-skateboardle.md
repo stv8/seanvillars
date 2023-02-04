@@ -30,21 +30,21 @@ Throughout the game I made sure to put a lot of thought into which clips were se
 
 #### Issues with Accepting more contributions
 
-The downside for allowing others to help more is simply that I still have to manage the quality control and upload the games, which takes a non-zero amount of time. I know it might sound lame but it's still an extra thing I have to keep tabs on and I'm not sure it really alleviates my time enough.
+The downside for allowing others to help more is simply that I still have to manage the quality control and upload the games, which takes a non-zero amount of time. I know it might sound lame, but it's still an extra thing I have to keep tabs on and it doensn't really alleviate my time enough.
 
 I've actually had help over the course of `Skateboardle` by `SkateVideoSite`'s own resident skate nerd `Frankiesomethin`. He has helped with roughly ~40 of the games and I can't thank him enough.
 
-
 #### Skateboardle Retrospective
+
 I plan on doing an additional `Skateboardle: A Retrospective` post where I will go over some fun statistics such as win percentages, total games played, etc. I also want to go over the actual code itself as I plan on open sourcing the codebase, and share some of the additional things I've learned from the experience.
 
 This has been one of the projects I have been most proud. It went from idea to execution in under a month, and in that time was able to become part of the Skate-internet subculture.
 
 ### Closing Thoughts
 
-I have been anxious to write this up as I know I have built quite a dedicated audience around the game and am sorry to let you down. I am so very stoked to have seen the growth and to see people playing it every day. My goal was always to just make something people enjoyed and that could spark a little bit of joy in their day. I thank everyone for playing.
+I have been anxious to write this up as I know I have built quite a dedicated audience around the game and am sorry to let you down. I am so very stoked to have seen the growth and to see people playing it every day. My goal was to make something people enjoyed which could spark a little bit of joy in their day, and I feel confident in sayint that was achieved.
 
-The time has come to get some time back. Also this will allow me some back to continue improving [SkateVideoSite](https://skatevideosite.com).
+I thank everyone for playing, but the time has come to get some time back. Also this will allow me some time back to continue improving [SkateVideoSite](https://skatevideosite.com).
 
 I want to give a shout out to:
 
@@ -56,7 +56,6 @@ I want to give a shout out to:
 - `Larry Lanza` - and the folks at `Jenkem`, thanks [for the interview](https://www.jenkemmag.com/home/2022/09/22/a-quick-chat-with-the-creator-of-skateboardle-a-skate-trivia-game/)
 - `Shawn`, `Tclow`, and `Harrynuggets` for continued support
 - everyone who sent me an email, especially those who submitted clips
-
 
 In the mean time you guys should head over and play [SkateTrivia.com](https://skatetrivia.com). They have a similar daily game featuring miscellaneous skateboarding and skate spot trivia, it's super fun and the dudes behind it are rad.
 
