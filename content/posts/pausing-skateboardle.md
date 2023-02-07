@@ -1,30 +1,26 @@
 ---
 title: Pausing Skateboardle
 date: 2023-02-07T02:22:36.327Z
-lastmod: 2023-02-07T02:48:00.745Z
+lastmod: 2023-02-07T03:06:43.738Z
 slug: pausing-skateboardle
-draft: true
-_build:
-  list: false
-  render: true
 keywords:
   - skateboardle
 ---
 Like the Osiris D3, all good things come to an end, or at least a pause since I just discovered those [abominations are back for sale](https://osirisshoes.com/products/d3-2001-black-black-black).
 
-Jokes aside, I am bummed to announce that I will be pausing [Skateboardle](https://skateboardle.com) games **after game 180** (frontside or backside pun intended).
+Jokes aside, I am bummed to announce that I will be pausing [Skateboardle](https://skateboardle.com) games **after game 180** (frontside or backside pun intended) which lands on Feb 16th.
 
-However I do want to make clear that **the site will always remain up**. You will always be able to play the older games and share the game with a friend who has never played. There is also a chance I will upload more games in the future, maybe not daily, but I just need a break for now.
+However, I do want to make clear that **the site will always remain up**. You will always be able to play the older games and share the game with a friend who has never played. There is also a chance I will upload more games in the future, maybe not daily, but I just need a break for now.
 
 The main reason I have to pause is rather boring, but it is simply due to the lack of time I have available to continue adding a game every day.
 
 Adding a single game typically takes me anywhere from 30 to 60 minutes, which is increasingly difficult to come by as a new dad and working full time. I'm trying to simplify my day a bit and `Skateboardle` is just one extra task I have on my plate every day.
 
-I have tried to figure out alternatives, such as automating the games, or making it easier for others to contribute games. However each has a downside and ultimately I would rather pause the game on a high note than have the experience degraded.
+I have tried to figure out alternatives, such as automating the games, or making it easier for others to contribute games. However, each has a downside and ultimately I would rather pause the game on a high note than have the experience degraded.
 
 #### Automation issues
 
-I implemented a proof of concept in which the entire thing could be done by a scheduled program. A video was selected, downloaded, split up by clips (thanks `ffmpeg`), and then 6 clips chose at random all done automatically. However it didn't take long to realize the quality of the game would suffer tremendously. After only a few test runs of truly random "clip selection", I could see that the game would not be as fun as if the clips were hand picked.
+I implemented a proof of concept in which the entire thing could be done by a scheduled program. A video was selected, downloaded, split up by clips (thanks `ffmpeg`), and then 6 clips chosen at random, all done automatically. However, it didn't take long to realize the quality of the game would suffer tremendously. After only a few test runs of truly random "clip selection", I could see that the game would not be as fun as if the clips were hand picked.
 
 Throughout the game I made sure to put a lot of thought into which clips were selected. For example, the first clip is usually difficult and the last clip should make the video obvious. Or there were funny clips, for example, in the `Blind - What If?` game I included James Craig's clip where the song literally says *`And you're watching What If`*. Or I would just pick clips that were standouts from the video.
 
