@@ -1,20 +1,16 @@
 ---
 title: Pausing Skateboardle
-date: 2023-02-02T14:40:10.218Z
-lastmod: 2023-02-02T22:14:21.775Z
+date: 2023-02-07T02:22:36.327Z
+lastmod: 2023-02-07T02:42:05.233Z
 slug: pausing-skateboardle
-draft: true
-_build:
-  list: false
-  render: true
 keywords:
   - skateboardle
 ---
-Like **, all good things come to an end or at least a pause.
+Like the Osiris D3, all good things come to an end, or at least a pause since I just discovered those [abominations are back for sale](https://osirisshoes.com/products/d3-2001-black-black-black).
 
-I am bummed to announce that I will be pausing [Skateboardle](https://skateboardle.com) games **starting with game 180** (frontside or backside pun intended).
+Jokes aside, I am bummed to announce that I will be pausing [Skateboardle](https://skateboardle.com) games **after game 180** (frontside or backside pun intended).
 
-However I do want to make clear that **the site will always remain up**. You will always be able to play the older games and share the game with a friend who has never played.
+However I do want to make clear that **the site will always remain up**. You will always be able to play the older games and share the game with a friend who has never played. There is also a chance I will upload more games in the future, maybe not daily, but I just need a break for now.
 
 The main reason I have to pause is rather boring, but it is simply due to the lack of time I have available to continue adding a game every day.
 
@@ -38,20 +34,21 @@ I've actually had help over the course of `Skateboardle` by `SkateVideoSite`'s o
 
 I plan on doing an additional `Skateboardle: A Retrospective` post where I will go over some fun statistics such as win percentages, total games played, etc. I also want to go over the actual code itself as I plan on open sourcing the codebase, and share some of the additional things I've learned from the experience.
 
-This has been one of the projects I have been most proud. It went from idea to execution in under a month, and in that time was able to become part of the Skate-internet subculture.
-
 ### Closing Thoughts
 
-I have been anxious to write this up as I know I have built quite a dedicated audience around the game and am sorry to let you down. I am so very stoked to have seen the growth and to see people playing it every day. My goal was to make something people enjoyed which could spark a little bit of joy in their day, and I feel confident saying that was achieved.
+I am immensely proud of this project. In under a month it went from idea to execution and was able to almost immediately become part of the Skate-internet subculture.
 
-I want to thank everyone for playing and allowing me to curate `Skateboardle`, but the time has come for me to get some time back. Also this will allow me to continue improving [SkateVideoSite](https://skatevideosite.com) more often.
+It's because of its succes though that I have been anxious to write this up. I know I have built quite a dedicated audience around the game and am sorry to let you down. I am so extremely stoked to have watched it grow and to see people playing it every day. My goal was to make something which could spark a little bit of joy in someone's day, and I feel confident saying that was achieved.
+
+I want to thank everyone for playing and allowing me to curate `Skateboardle`, but the time has come for me to get some time back. This will also allow me some more time to continue improving [SkateVideoSite](https://skatevideosite.com).
 
 I want to give a shout out to:
 
+- my wife for being supportive when it's 10:30 PM and she hears me say `I still have to do a skateboardle`
 - the [41 page thread on Slap](https://www.slapmagazine.com/index.php?topic=123242.1200)
 - the [1300+ comment thread on UkSkateForum](https://ukskateforum.co.uk/t/skateboardle-video-quiz-contains-spoilers/3082/1357)
-- `Frankiesomethin` our resident skate nerd
-- `Markus` at `SkateVideoSite`
+- [SkateVideoVault](https://www.youtube.com/@SkateVideoVault) for supplying high quality skate videos online
+- `Frankiesomethin`, our resident skate nerd, and `Markus` over at `SkateVideoSite`
 - `Walker Ryan` for collaborating on his book release
 - `Larry Lanza` and the folks at `Jenkem`, thanks [for the interview](https://www.jenkemmag.com/home/2022/09/22/a-quick-chat-with-the-creator-of-skateboardle-a-skate-trivia-game/)
 - `Shawn`, `Tclow`, and `Harrynuggets` for continued support
