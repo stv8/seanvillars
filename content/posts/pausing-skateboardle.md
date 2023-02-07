@@ -1,8 +1,12 @@
 ---
 title: Pausing Skateboardle
 date: 2023-02-07T02:22:36.327Z
-lastmod: 2023-02-07T02:42:05.233Z
+lastmod: 2023-02-07T02:48:00.745Z
 slug: pausing-skateboardle
+draft: true
+_build:
+  list: false
+  render: true
 keywords:
   - skateboardle
 ---
