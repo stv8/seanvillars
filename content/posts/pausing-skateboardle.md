@@ -51,6 +51,7 @@ I want to give a shout out to:
 - `Frankiesomethin`, our resident skate nerd, and `Markus` over at `SkateVideoSite`
 - `Walker Ryan` for collaborating on his book release
 - `Larry Lanza` and the folks at `Jenkem`, thanks [for the interview](https://www.jenkemmag.com/home/2022/09/22/a-quick-chat-with-the-creator-of-skateboardle-a-skate-trivia-game/)
+- `Lurp Luprington` for brainstorming ideas and for creating a user survey
 - `Shawn`, `Tclow`, and `Harrynuggets` for continued support
 - everyone who sent me an email, especially those who submitted clips
 
